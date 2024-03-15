@@ -8,3 +8,4 @@ Dashboard2: https://public.tableau.com/app/profile/cw.peng/viz/PizzaSalesAnalysi
 
 ---
 ![Alt text](/screenshots/Dashboard1.png?raw=true)
+![Alt text](/screenshots/Dashboard2.png?raw=true)
